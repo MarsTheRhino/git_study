@@ -1,0 +1,24 @@
+Merge branch 'main' of https://github.com/MarsTheRhino/git_study into main
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please run
+#	git update-ref -d MERGE_HEAD
+# and try again.
+
+
+# Пожалуйста, введите сообщение коммита для ваших изменений. Строки,
+# начинающиеся с «#» будут проигнорированы, а пустое сообщение
+# отменяет процесс коммита.
+#
+# Коммитер:  Lev Tolstoy <levtolstoy@iMac-Lev.local>
+#
+# На ветке main
+# Ваша ветка и «origin/main» разделились
+# и теперь имеют 1 и 1 разных коммита в каждой соответственно.
+#   (используйте «git pull», чтобы слить внешнюю ветку в вашу)
+#
+# Все конфликты исправлены, но вы все еще в процессе слияния.
+#
+# Изменения, которые будут включены в коммит:
+#	новый файл:    form.html
+#
